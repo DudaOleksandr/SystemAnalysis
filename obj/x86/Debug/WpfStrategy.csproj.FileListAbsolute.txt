@@ -1,0 +1,13 @@
+C:\Users\sduda\Desktop\WpfStrategy\WpfStrategy\bin\Debug\WpfStrategy.exe
+C:\Users\sduda\Desktop\WpfStrategy\WpfStrategy\bin\Debug\WpfStrategy.pdb
+C:\Users\sduda\Desktop\WpfStrategy\WpfStrategy\obj\x86\Debug\WpfStrategy.csprojAssemblyReference.cache
+C:\Users\sduda\Desktop\WpfStrategy\WpfStrategy\obj\x86\Debug\MainWindow.baml
+C:\Users\sduda\Desktop\WpfStrategy\WpfStrategy\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sduda\Desktop\WpfStrategy\WpfStrategy\obj\x86\Debug\App.g.cs
+C:\Users\sduda\Desktop\WpfStrategy\WpfStrategy\obj\x86\Debug\WpfStrategy_MarkupCompile.cache
+C:\Users\sduda\Desktop\WpfStrategy\WpfStrategy\obj\x86\Debug\WpfStrategy.g.resources
+C:\Users\sduda\Desktop\WpfStrategy\WpfStrategy\obj\x86\Debug\WpfStrategy.Properties.Resources.resources
+C:\Users\sduda\Desktop\WpfStrategy\WpfStrategy\obj\x86\Debug\WpfStrategy.csproj.GenerateResource.cache
+C:\Users\sduda\Desktop\WpfStrategy\WpfStrategy\obj\x86\Debug\WpfStrategy.csproj.CoreCompileInputs.cache
+C:\Users\sduda\Desktop\WpfStrategy\WpfStrategy\obj\x86\Debug\WpfStrategy.exe
+C:\Users\sduda\Desktop\WpfStrategy\WpfStrategy\obj\x86\Debug\WpfStrategy.pdb
