@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sduda\\RiderProjects\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj": {}
+    "C:\\Users\\sduda\\RiderProjects\\SystemAnalysis\\ObserverPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sduda\\RiderProjects\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj": {
+    "C:\\Users\\sduda\\RiderProjects\\SystemAnalysis\\ObserverPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sduda\\RiderProjects\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
-        "projectName": "ObserverPattern",
-        "projectPath": "C:\\Users\\sduda\\RiderProjects\\ObserverPattern\\ObserverPattern\\ObserverPattern.csproj",
+        "projectUniqueName": "C:\\Users\\sduda\\RiderProjects\\SystemAnalysis\\ObserverPattern.csproj",
+        "projectName": "DecoratorPattern",
+        "projectPath": "C:\\Users\\sduda\\RiderProjects\\SystemAnalysis\\ObserverPattern.csproj",
         "packagesPath": "C:\\Users\\sduda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sduda\\RiderProjects\\ObserverPattern\\ObserverPattern\\obj\\",
+        "outputPath": "C:\\Users\\sduda\\RiderProjects\\SystemAnalysis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
