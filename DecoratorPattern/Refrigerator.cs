@@ -1,17 +1,17 @@
 ﻿namespace DecoratorPattern
 {
-    class Espresso : Beverage
+    internal class Refrigerator : RepairPrice
     {
-        public Espresso()
+        public Refrigerator()
         {
-            _description = "Espresso";
+            _description = "Refrigerator(Transportation)";
         }
 
         public override string Description => _description;
 
         public override double Cost()
         {
-            return 1.99;
+            return 3.49;
         }
     }
 }

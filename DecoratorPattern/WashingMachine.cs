@@ -1,17 +1,17 @@
 ﻿namespace DecoratorPattern
 {
-    class HouseBlend : Beverage
+    class WashingMachine : RepairPrice
     {
-        public HouseBlend()
+        public WashingMachine()
         {
-            _description = "House Blend";
+            _description = "WashingMachine(Transportation)";
         }
 
         public override string Description => _description;
 
         public override double Cost()
         {
-            return 2.49;
+            return 4.49;
         }
     }
 }

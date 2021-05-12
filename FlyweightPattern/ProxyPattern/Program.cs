@@ -4,7 +4,7 @@ namespace FacadePattern
 {
     internal static class Program
     {
-        private static void Main()
+        private static void Main1()
         {
             var dimmer = new Dimmer();
             var dvdPlayer = new DvdPlayer();
