@@ -1,6 +1,6 @@
 ﻿using System;
 using static System.Console;
-namespace DecoratorPattern.SingletonPattern
+namespace SingletonPattern
 {
   internal static class Program
   {

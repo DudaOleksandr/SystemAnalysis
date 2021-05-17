@@ -1,6 +1,6 @@
 using static System.Console;
 
-namespace DecoratorPattern.SingletonPattern
+namespace SingletonPattern
 {
     sealed class Singleton
     {
