@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HoWzNjlQur6xRGGBBlckN9K2SEiERN6YV1t8y5dMmcPgKFuWgb2N6IeKaTrs0316xdRAXYZBN7RE4ol6uK8MUA==",
+  "dgSpecHash": "QoucDG8J/IChqWaCRbuUfQ7Ti/SaO1feQAwgWIQcNa7YX5Mw4kj30+lrvKLoJNhndpqTXlUMXZU72/0sRE59gw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sduda\\RiderProjects\\SystemAnalysis\\ObserverPattern.csproj",
+  "projectFilePath": "C:\\Users\\sduda\\RiderProjects\\SystemAnalysis\\SingletonePattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

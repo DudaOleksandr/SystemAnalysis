@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sduda\\RiderProjects\\SystemAnalysis\\ObserverPattern.csproj",
+      "projectUniqueName": "C:\\Users\\sduda\\RiderProjects\\SystemAnalysis\\SingletonePattern.csproj",
       "projectName": "DecoratorPattern",
-      "projectPath": "C:\\Users\\sduda\\RiderProjects\\SystemAnalysis\\ObserverPattern.csproj",
+      "projectPath": "C:\\Users\\sduda\\RiderProjects\\SystemAnalysis\\SingletonePattern.csproj",
       "packagesPath": "C:\\Users\\sduda\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sduda\\RiderProjects\\SystemAnalysis\\obj\\",
       "projectStyle": "PackageReference",
