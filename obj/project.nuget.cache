@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QoucDG8J/IChqWaCRbuUfQ7Ti/SaO1feQAwgWIQcNa7YX5Mw4kj30+lrvKLoJNhndpqTXlUMXZU72/0sRE59gw==",
+  "dgSpecHash": "YCKV//YBHMfsE0vNr8go8Uz7LODgv4cnRMwes9Bfe0sAGqeDd/EKhKy46y2ygKox9DUCptmoLbhvBjmGXxUJ8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sduda\\RiderProjects\\SystemAnalysis\\SingletonePattern.csproj",
+  "projectFilePath": "C:\\Users\\sduda\\RiderProjects\\SystemAnalysis\\SingletonPattern1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
